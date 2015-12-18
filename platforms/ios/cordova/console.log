@@ -1,0 +1,60 @@
+2015-12-18 12:31:14.580 SocialLogin[37395:592129] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/B870F66B-B813-4070-B41D-E522EA295D88/Library/Cookies/Cookies.binarycookies
+2015-12-18 12:31:14.742 SocialLogin[37395:592129] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 12:31:14.742 SocialLogin[37395:592129] Multi-tasking -> Device: YES, App: YES
+2015-12-18 12:31:14.750 SocialLogin[37395:592129] Unlimited access to network resources
+2015-12-18 12:31:14.946 SocialLogin[37395:592129] [CDVTimer][keyboard] 0.064015ms
+2015-12-18 12:31:15.029 SocialLogin[37395:592129] [CDVTimer][splashscreen] 83.375990ms
+2015-12-18 12:31:15.029 SocialLogin[37395:592129] [CDVTimer][TotalPluginStartup] 83.757043ms
+2015-12-18 12:31:15.284 SocialLogin[37395:592129] Resetting plugins due to page load.
+2015-12-18 12:31:15.465 SocialLogin[37395:592129] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/A84C5719-10EE-4D1A-A75C-222437E921A2/SocialLogin.app/www/index.html#/app/playlists
+2015-12-18 12:31:29.234 SocialLogin[37395:592129] Resetting plugins due to page load.
+2015-12-18 12:31:29.243 SocialLogin[37395:592129] Doing login [object Object]
+2015-12-18 12:31:29.295 SocialLogin[37395:592129] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-12-18 12:38:05.536 SocialLogin[37773:596169] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/8FFE3FAA-CAB6-49FB-92D1-9E96873E64D5/Library/Cookies/Cookies.binarycookies
+2015-12-18 12:38:05.596 SocialLogin[37773:596169] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 12:38:05.596 SocialLogin[37773:596169] Multi-tasking -> Device: YES, App: YES
+2015-12-18 12:38:05.597 SocialLogin[37773:596169] Unlimited access to network resources
+2015-12-18 12:38:05.661 SocialLogin[37773:596169] [CDVTimer][keyboard] 0.054955ms
+2015-12-18 12:38:05.673 SocialLogin[37773:596169] [CDVTimer][splashscreen] 11.120975ms
+2015-12-18 12:38:05.673 SocialLogin[37773:596169] [CDVTimer][TotalPluginStartup] 11.461973ms
+2015-12-18 12:38:05.714 SocialLogin[37773:596169] Resetting plugins due to page load.
+2015-12-18 12:38:05.839 SocialLogin[37773:596169] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/A2BB8F9D-30D2-442E-95FC-7A1A1BE0FF0C/SocialLogin.app/www/index.html#/app/playlists
+2015-12-18 12:40:20.660 SocialLogin[38007:597726] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/CF219053-0F80-44AB-8A52-3A0E4327DF12/Library/Cookies/Cookies.binarycookies
+2015-12-18 12:40:20.722 SocialLogin[38007:597726] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 12:40:20.722 SocialLogin[38007:597726] Multi-tasking -> Device: YES, App: YES
+2015-12-18 12:40:20.723 SocialLogin[38007:597726] Unlimited access to network resources
+2015-12-18 12:40:20.787 SocialLogin[38007:597726] [CDVTimer][keyboard] 0.045002ms
+2015-12-18 12:40:20.799 SocialLogin[38007:597726] [CDVTimer][splashscreen] 11.439979ms
+2015-12-18 12:40:20.799 SocialLogin[38007:597726] [CDVTimer][TotalPluginStartup] 11.741996ms
+2015-12-18 12:40:20.843 SocialLogin[38007:597726] Resetting plugins due to page load.
+2015-12-18 12:40:20.956 SocialLogin[38007:597726] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/7A1AF5DD-B7BE-4287-9073-813682219210/SocialLogin.app/www/index.html#/app/mainpage
+2015-12-18 12:40:25.062 SocialLogin[38007:597726] Resetting plugins due to page load.
+2015-12-18 12:40:25.073 SocialLogin[38007:597726] Doing login [object Object]
+2015-12-18 12:40:25.124 SocialLogin[38007:597726] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-12-18 12:41:27.016 SocialLogin[38212:598666] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/581F7823-C0D4-4BDE-8907-513C4344B93E/Library/Cookies/Cookies.binarycookies
+2015-12-18 12:41:27.077 SocialLogin[38212:598666] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 12:41:27.078 SocialLogin[38212:598666] Multi-tasking -> Device: YES, App: YES
+2015-12-18 12:41:27.079 SocialLogin[38212:598666] Unlimited access to network resources
+2015-12-18 12:41:27.143 SocialLogin[38212:598666] [CDVTimer][keyboard] 0.051975ms
+2015-12-18 12:41:27.154 SocialLogin[38212:598666] [CDVTimer][splashscreen] 11.112034ms
+2015-12-18 12:41:27.154 SocialLogin[38212:598666] [CDVTimer][TotalPluginStartup] 11.439979ms
+2015-12-18 12:41:27.195 SocialLogin[38212:598666] Resetting plugins due to page load.
+2015-12-18 12:41:27.309 SocialLogin[38212:598666] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/9A26A938-5102-4819-AB50-B49E1F13FA12/SocialLogin.app/www/index.html#/app/mainpage
+2015-12-18 12:44:24.672 SocialLogin[38472:600880] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/F8610943-8148-431E-B3C1-F2C061903504/Library/Cookies/Cookies.binarycookies
+2015-12-18 12:44:24.727 SocialLogin[38472:600880] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 12:44:24.727 SocialLogin[38472:600880] Multi-tasking -> Device: YES, App: YES
+2015-12-18 12:44:24.728 SocialLogin[38472:600880] Unlimited access to network resources
+2015-12-18 12:44:24.796 SocialLogin[38472:600880] [CDVTimer][keyboard] 0.047028ms
+2015-12-18 12:44:24.807 SocialLogin[38472:600880] [CDVTimer][splashscreen] 11.023045ms
+2015-12-18 12:44:24.808 SocialLogin[38472:600880] [CDVTimer][TotalPluginStartup] 11.325002ms
+2015-12-18 12:44:24.850 SocialLogin[38472:600880] Resetting plugins due to page load.
+2015-12-18 12:44:24.958 SocialLogin[38472:600880] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/6923621B-B280-45DC-B755-DB581A3CBA56/SocialLogin.app/www/index.html#/app/mainpage
+2015-12-18 12:44:53.161 SocialLogin[38662:601599] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/EAA89A2A-D138-4A54-A906-8A28175BD5AE/Library/Cookies/Cookies.binarycookies
+2015-12-18 12:44:53.222 SocialLogin[38662:601599] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 12:44:53.222 SocialLogin[38662:601599] Multi-tasking -> Device: YES, App: YES
+2015-12-18 12:44:53.223 SocialLogin[38662:601599] Unlimited access to network resources
+2015-12-18 12:44:53.287 SocialLogin[38662:601599] [CDVTimer][keyboard] 0.046015ms
+2015-12-18 12:44:53.299 SocialLogin[38662:601599] [CDVTimer][splashscreen] 11.348009ms
+2015-12-18 12:44:53.299 SocialLogin[38662:601599] [CDVTimer][TotalPluginStartup] 11.657000ms
+2015-12-18 12:44:53.344 SocialLogin[38662:601599] Resetting plugins due to page load.
+2015-12-18 12:44:53.458 SocialLogin[38662:601599] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/A9CA6DB5-1CE1-4E57-BA61-BE951820D14F/SocialLogin.app/www/index.html#/app/mainpage
